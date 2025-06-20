@@ -4,11 +4,11 @@ This proyect consist in a web page that ask your name and age then told you some
 
 
 ## Table of Contents
--[Index]
--[Interactive Messages System]
--[Technologies Used]
--[Installation]
--[How To Use]
+- Index
+- Interactive Messages System
+- Technologies Used
+- Installation
+- How To Use
 
 
 ## Index
